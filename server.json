@@ -1,28 +1,88 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "FAR CRY 5",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0001-CUSA05904_00-FARCRY5GAME00000/1588296139000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 49.72
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "The last of US Part II",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA07820_00-THELASTOFUS2STND/1588292868000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 249.99
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "Ghost of Tsushima",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA11456_00-GHOSTSHIP0000000/1588292546000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 249.90
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "4",
+      "title": "RESIDENT EVIL 3",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0102-CUSA14168_00-BH3B000000000001/1588296346000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 249.99
+    },
+    {
+      "id": "5",
+      "title": "DEATH STRANDING",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA11260_00-DEATHSTRAND00001/1588292556000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 249.00
+    },
+    {
+      "id": "6",
+      "title": "Nioh 2",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA15532_00-NIOH2NA000000000/1588294057000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 249.99
+    },
+    {
+      "id": "7",
+      "title": "RESIDENT EVIL 2",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0102-CUSA09193_00-BH2R000000000001/1588292877000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 164.90
+    },
+    {
+      "id": "8",
+      "title": "MONSTER HUNTER: WORLD™",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0102-CUSA07713_00-0000000000000000/1588296106000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 149.00
+    },
+    {
+      "id": "9",
+      "title": "Sekiro™: Shadows Die Twice",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0002-CUSA12047_00-SEKIROGAME000001/1588211185000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 229.90
+    },
+    {
+      "id": "10",
+      "title": "God of War",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA07408_00-00000000GODOFWAR/1588296333000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 79.90
+    },
+    {
+      "id": "11",
+      "title": "Red Dead Redemption 2",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP1004-CUSA03041_00-REDEMPTION000002/1588292873000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 248.99
+    },
+    {
+      "id": "12",
+      "title": "Dead Cells",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP4016-CUSA11253_00-DEADCELLS0000000/1588293384000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 67.53
+    },
+    {
+      "id": "13",
+      "title": "Assassin's Creed® Odyssey",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP0001-CUSA09311_00-GAME000000000000/1588296124000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 199.99
+    },
+    {
+      "id": "14",
+      "title": "Days Gone Digital Deluxe Edition",
+      "image_url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/19/UP9000-CUSA08966_00-DAYSGONEDGDELUXE/1588293227000/image?w=360&h=360&bg_color=000000&opacity=100&_version=00_09_000",
+      "price": 199.99
     }
   ]
 }
